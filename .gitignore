@@ -1,0 +1,5 @@
+/preloaded_graphs
+/.venv
+/.ipynb_checkouts
+/.ipynb_checkpoints
+/cache
